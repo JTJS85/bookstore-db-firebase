@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebasetodo/static/css/main.72e0d71e.css",
+    "main.js": "/firebasetodo/static/js/main.b6cbe447.js",
+    "static/js/787.686d3523.chunk.js": "/firebasetodo/static/js/787.686d3523.chunk.js",
+    "index.html": "/firebasetodo/index.html",
+    "main.72e0d71e.css.map": "/firebasetodo/static/css/main.72e0d71e.css.map",
+    "main.b6cbe447.js.map": "/firebasetodo/static/js/main.b6cbe447.js.map",
+    "787.686d3523.chunk.js.map": "/firebasetodo/static/js/787.686d3523.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72e0d71e.css",
+    "static/js/main.b6cbe447.js"
+  ]
+}
