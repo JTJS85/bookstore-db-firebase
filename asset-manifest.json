@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JTJS85/bookstore-db-firebase.git/static/css/main.72e0d71e.css",
-    "main.js": "/JTJS85/bookstore-db-firebase.git/static/js/main.d204a847.js",
-    "static/js/787.686d3523.chunk.js": "/JTJS85/bookstore-db-firebase.git/static/js/787.686d3523.chunk.js",
-    "index.html": "/JTJS85/bookstore-db-firebase.git/index.html",
-    "main.72e0d71e.css.map": "/JTJS85/bookstore-db-firebase.git/static/css/main.72e0d71e.css.map",
-    "main.d204a847.js.map": "/JTJS85/bookstore-db-firebase.git/static/js/main.d204a847.js.map",
-    "787.686d3523.chunk.js.map": "/JTJS85/bookstore-db-firebase.git/static/js/787.686d3523.chunk.js.map"
+    "main.css": "/bookstore-db-firebase/static/css/main.72e0d71e.css",
+    "main.js": "/bookstore-db-firebase/static/js/main.d1d1849f.js",
+    "static/js/787.686d3523.chunk.js": "/bookstore-db-firebase/static/js/787.686d3523.chunk.js",
+    "index.html": "/bookstore-db-firebase/index.html",
+    "main.72e0d71e.css.map": "/bookstore-db-firebase/static/css/main.72e0d71e.css.map",
+    "main.d1d1849f.js.map": "/bookstore-db-firebase/static/js/main.d1d1849f.js.map",
+    "787.686d3523.chunk.js.map": "/bookstore-db-firebase/static/js/787.686d3523.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72e0d71e.css",
-    "static/js/main.d204a847.js"
+    "static/js/main.d1d1849f.js"
   ]
 }
