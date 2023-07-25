@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/firebasetodo/static/css/main.72e0d71e.css",
-    "main.js": "/firebasetodo/static/js/main.b6cbe447.js",
-    "static/js/787.686d3523.chunk.js": "/firebasetodo/static/js/787.686d3523.chunk.js",
-    "index.html": "/firebasetodo/index.html",
-    "main.72e0d71e.css.map": "/firebasetodo/static/css/main.72e0d71e.css.map",
-    "main.b6cbe447.js.map": "/firebasetodo/static/js/main.b6cbe447.js.map",
-    "787.686d3523.chunk.js.map": "/firebasetodo/static/js/787.686d3523.chunk.js.map"
+    "main.css": "/JTJS85/bookstore-db-firebase.git/static/css/main.72e0d71e.css",
+    "main.js": "/JTJS85/bookstore-db-firebase.git/static/js/main.d204a847.js",
+    "static/js/787.686d3523.chunk.js": "/JTJS85/bookstore-db-firebase.git/static/js/787.686d3523.chunk.js",
+    "index.html": "/JTJS85/bookstore-db-firebase.git/index.html",
+    "main.72e0d71e.css.map": "/JTJS85/bookstore-db-firebase.git/static/css/main.72e0d71e.css.map",
+    "main.d204a847.js.map": "/JTJS85/bookstore-db-firebase.git/static/js/main.d204a847.js.map",
+    "787.686d3523.chunk.js.map": "/JTJS85/bookstore-db-firebase.git/static/js/787.686d3523.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72e0d71e.css",
-    "static/js/main.b6cbe447.js"
+    "static/js/main.d204a847.js"
   ]
 }
